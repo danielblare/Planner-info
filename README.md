@@ -23,6 +23,7 @@ Stay organized and on top of your schedule with Planner - the ultimate planner a
 - Various custom components/extensions/managers that can be reused
 - Push Notifications scheduling including handling database changes
 - UI Appearance customization though user's settings + Realtime syncing
+- Widgets supporting 3 families
 - Dependency injection
 - Haptic Feedback Service
 
