@@ -12,6 +12,20 @@ Stay organized and on top of your schedule with Planner - the ultimate planner a
 - Syncing across different devices: Sign in or create an account using your Google, Apple, or email credentials, and unlock the power of real-time syncing. Seamlessly access your planner from multiple devices, and watch as changes made on one device instantly appear on others. Your reminders, tags, and appearance settings stay perfectly mirrored in real-time, keeping you up-to-date no matter where you are.
 - Convinient widgets for easy access: Maximize productivity with our range of widgets in various sizes. Quickly view essential information and easily manage your tasks without opening the app. The larger widgets display more details, providing a comprehensive overview of your schedule at a glance.
 
+## Code features
+- Sign up/in methods like Apple, Google, Email, Anonymous
+- Account managing(reset password, delete, change profile pic, change name, link provider etc) using FirebaseAuth and FirebaseFirestore as a backend + Real time syncing'
+- Customizable tags using FirebaseFirestore + Realtime syncing
+- Designed and implemented custom calendar
+- Realtime syncing of reminders with custom made efficient Combine logic
+- Local files/cache managing for the best user performance
+- Deeplinking allows to share reminders between devices
+- Various custom components/extensions/managers that can be reused
+- Push Notifications scheduling including handling database changes
+- UI Appearance customization though user's settings + Realtime syncing
+- Dependency injection
+- Haptic Feedback Service
+
 ## Screenshots
 
 <div>
