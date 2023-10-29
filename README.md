@@ -32,18 +32,18 @@ Stay organized and on top of your schedule with Planner - the ultimate planner a
 ## Screenshots
 
 <div>
-  <img src="https://github.com/stuffeddanny/Planner/blob/main/Screenshots/mock.png?raw=true" alt="App Screenshot" width="250" />
-  <img src="https://github.com/stuffeddanny/Planner/blob/main/Screenshots/tags.png?raw=true" alt="App Screenshot" width="250" />
-  <img src="https://github.com/stuffeddanny/Planner/blob/main/Screenshots/appearance.png?raw=true" alt="App Screenshot" width="250" />
+  <img src="https://github.com/stuffeddanny/Planner-Info/blob/main/Screenshots/mock.png?raw=true" alt="App Screenshot" width="250" />
+  <img src="https://github.com/stuffeddanny/Planner-Info/blob/main/Screenshots/tags.png?raw=true" alt="App Screenshot" width="250" />
+  <img src="https://github.com/stuffeddanny/Planner-Info/blob/main/Screenshots/appearance.png?raw=true" alt="App Screenshot" width="250" />
 </div>
 
 ### From Design to Real implementation
 
-![App Screenshot](https://github.com/stuffeddanny/Planner/blob/main/Screenshots/widget_design.png?raw=true)
+![App Screenshot](https://github.com/stuffeddanny/Planner-Info/blob/main/Screenshots/widget_design.png?raw=true)
 ## Code snippets
 
 ### Password strenth component
-<img src="https://github.com/stuffeddanny/Planner/blob/main/Screenshots/password_strength.gif?raw=true" alt="App Screenshot" width="450" />
+<img src="https://github.com/stuffeddanny/Planner-Info/blob/main/Screenshots/password_strength.gif?raw=true" alt="App Screenshot" width="450" />
 
 ```swift
 struct PasswordStrengthView: View {
