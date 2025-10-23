@@ -3,8 +3,6 @@
 
 !!! Original repository is private due to security/privacy reasons !!!
 
-https://planner-support.com
-
 Stay organized and on top of your schedule with Planner - the ultimate planner app that keeps everything in sync and makes planning a breeze! Whether you need to manage appointments, important events, or simply jot down your to-dos, Planner offers a comprehensive solution to help you stay on track and never miss a beat
 
 ## Key features
